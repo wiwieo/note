@@ -4,3 +4,4 @@
 * 2、[redis 集群搭建](./redis-cluster.md)
 * 3、[微服务理解](./microservices.md)
 * 4、[etcd笔记](./etcd.md)
+* 5、[锁](./lock.md)
