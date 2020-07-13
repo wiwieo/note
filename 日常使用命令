@@ -1,0 +1,1 @@
+strace -T -tt -e trace=all -p xxx 用于查看某个进程执行的情
